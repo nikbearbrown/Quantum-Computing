@@ -561,3 +561,82 @@ This section demonstrates how Intel’s manufacturing prowess and collaborative 
 
 
 
+**Proposal: AI Support Research Assistant Program**
+
+---
+
+### **Introduction**
+With the increasing integration of AI into academia, faculty members are seeking technical support to develop AI-driven tools and extend their courses with AI applications. To address this growing need, we propose the establishment of an **AI Support Research Assistant (RA) Program**, where students will be trained and hired to assist faculty in AI-related projects.
+
+This initiative would function similarly to IT support, providing faculty members with technical expertise while also serving as an educational opportunity for students. We suggest implementing this as both a **paid RA program** and a **credit-based course** that offers tuition support in exchange for participation.
+
+---
+
+### **Program Structure**
+
+#### **RA Support Model**
+- Students with AI expertise or interest in AI development will be hired as **AI Research Assistants**.
+- These RAs will provide technical assistance to faculty members developing AI tools or incorporating AI into their teaching.
+- Faculty will be able to request AI support, similar to how IT support services function.
+- The program will be centrally coordinated to ensure an effective matching process between faculty needs and student expertise.
+
+#### **Course-Integrated Model**
+- An **AI Support Course** will be created, allowing students to earn **full or partial tuition support** in exchange for structured hours as AI RAs.
+- The course will include **lectures and hands-on projects** to enhance students' AI skills while they gain real-world experience assisting faculty.
+- This model ensures that student RAs are continually upskilled, improving their ability to provide AI support.
+
+---
+
+### **Benefits of the Program**
+
+#### **For Faculty:**
+- Access to skilled AI support to develop course enhancements, research tools, and AI-integrated content.
+- Reduced technical barriers for incorporating AI into courses.
+
+#### **For Students:**
+- Hands-on experience working on AI projects in an academic setting.
+- Financial support through **either employment or tuition assistance**.
+- Opportunities to deepen AI knowledge through structured coursework and mentorship.
+
+#### **For the Institution:**
+- Encourages AI adoption across departments.
+- Enhances student skill development in AI, creating a pipeline of talent.
+- Strengthens the university’s reputation as an **AI-driven institution**.
+
+---
+
+### **Implementation Plan**
+
+#### **Pilot Phase:**
+- Identify an initial **cohort of students** with AI skills.
+- Engage **interested faculty members** to participate in the pilot.
+- Secure **funding sources** (e.g., through Gregory’s support, departmental budgets, or grants).
+
+#### **Course Development:**
+- Design an **AI Support Course syllabus** integrating both technical and applied AI learning.
+- Collaborate with **faculty members** to ensure alignment with their AI needs.
+
+#### **Expansion & Evaluation:**
+- Assess the **effectiveness** of the pilot and gather feedback.
+- Expand the program based on **demand and funding availability**.
+- Establish a **sustainable model** for long-term implementation.
+
+---
+
+### **Next Steps**
+- Further develop **financial backing** with Gregory and other stakeholders.
+- Define the **recruitment process** for students and faculty.
+- Develop a **structured support request system** for faculty.
+- Finalize the **curriculum for the AI Support Course**.
+
+This initiative has the potential to create a **win-win scenario** for faculty and students, ensuring the seamless adoption of AI in academia while empowering students with valuable experience and financial support.
+
+---
+
+### **Feedback & Collaboration**
+We welcome input from **faculty, administrators, and students** to refine this proposal. Please share your thoughts via our **team channel** or in a discussion meeting.
+
+Thank you for your support in developing this initiative!
+
+
+
